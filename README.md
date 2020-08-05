@@ -1,3 +1,2 @@
-# Code Refactor Starter Code
-# Challenge-One
-# changing the repo
+# Code was Refactored to be more concise and have correct semantic terms
+
