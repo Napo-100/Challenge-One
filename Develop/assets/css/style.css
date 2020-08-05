@@ -19,7 +19,7 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 80px;
 }
 
 .header h1 .seo {
@@ -34,28 +34,24 @@ body {
     font-size: 20px;
 }
 
+/* can I delete this */
 .header div ul {
     list-style-type: none;
 }
 
 .header div ul li {
     display: inline-block;
-    margin-left: 25px;
+    font-size: 30px;
+    margin: 10px 25px 25px 25px;
 }
 
-a {
+.header a {
     color: #ffffff;
     text-decoration: none;
 }
-
-p {
-    font-size: 16px;
-}
-
 /* End Header Styles */
 
-/* Hero and Content Styles */
-
+/* Hero and Main Content Styles */
 .hero {
     height: 1250px;
     width: 100%;
@@ -83,10 +79,7 @@ p {
 
 .content p {
     font-size: 20px;
-    padding-right: 30px;
-    
-    
-    
+    padding-right: 30px; 
 }
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
@@ -106,6 +99,7 @@ p {
     margin-bottom: 40px;
     font-size: 48px;
 }
+/* End Hero and Main Content Styles */
 
 /* Benefit Styles */
 .benefits {
@@ -141,8 +135,9 @@ p {
     font-size: 20px;
     margin-bottom: 100px;
 }
+/* End Benefits Styles */
 
-
+/* Footer Styles */
 .footer {
     padding: 0 0 30px 0;
     clear: both;
@@ -153,3 +148,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* End Footer Styles */
