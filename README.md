@@ -4,6 +4,6 @@
 
 Access the website by clicking <a href="https://napo-100.github.io/Challenge-One/" target="_blank">here</a>
 
-<img src=assets\images\screenshot.png>
+<img src="./assets\images\screencapture-napo-100-github-io-Challenge-One-index-html-2020-08-06-21_41_48.png">
 
 # Built with Visual Studio Code
